@@ -37,7 +37,7 @@ Calcuml pp=new Calcuml();
 
 int res=pp.mul();
 
-assertEquals("Result - Fail", 18, res);
+assertEquals("Result - Fail", 1, res);
 	
 }	
     }
